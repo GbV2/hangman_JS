@@ -1,0 +1,30 @@
+
+.himg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0;
+    
+}
+
+.hidden-letter {
+    width: 30px;
+	height: 30px;
+	text-align: center;
+    font-size: 25px;
+    border-bottom: solid;
+}
+
+.letter {
+    width: 30px;
+	height: 30px;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.dnuse {
+    width: 30px;
+	height: 30px;
+    text-align: center;
+    font-size: 25px;
+    color: gray;
+}
